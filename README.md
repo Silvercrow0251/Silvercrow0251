@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Silvercrow0251
-- 👀 I’m interested in ... Graphic Designing
-- 🌱 I’m currently learning ... Html & CSS
-- 💞️ I’m looking to collaborate on ... Webpage UX Design
-- 📫 How to reach me ... Twitter: @Otaku_Reads || Instagram: @free_games4life
+### Hello 👋
 
-<!---
-Silvercrow0251/Silvercrow0251 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Jean Rae, a full-stack developer with skills in Adobe Photoshop, Illustrator and other graphic design software as well as programming languages like C#, C++, Kotlin, Java, Javascript, HTML, CSS, Node.js, and Python. I have a passion for developing web applications and creating beautiful designs through coding. I also work on mobile app development projects using Android Studio and Adobe Xd for android devices.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Silvercrow0251)](https://github.com/anuraghazra/github-readme-stats)
