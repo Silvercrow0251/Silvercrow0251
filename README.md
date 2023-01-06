@@ -15,9 +15,4 @@ Hello, I'm Jean Rae, a full-stack developer with skills in Adobe Photoshop, Illu
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@jeanraeS) 
-
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
